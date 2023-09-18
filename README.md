@@ -99,3 +99,4 @@
 * https://school.nlquran.com/#/
 * http://www.darsemansoor.com/
 * https://www.trueorigin.org/
+* https://naylanuzhat.wordpress.com/
