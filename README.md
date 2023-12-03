@@ -1,6 +1,7 @@
 # Islamic Sites/Blogs
 
 * https://response-to-anti-islam.com/
+* https://mubasherasisters.com/
 * https://www.lostmodesty.com/
 * https://chintaporadh.com/
 * https://mohammedtouahaakbar.wordpress.com/
