@@ -1,5 +1,9 @@
 # Islamic Sites/Blogs/Resources/Books
 
+<img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:Islam" 
+     alt="Wakapi Time Tracking" 
+     title="Spent more than that amount of time spent on this project">
+
 * http://aazeenofislam.com/
 * https://adarshanari.com/
 * https://ahmadullah.info/
