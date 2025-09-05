@@ -4,6 +4,8 @@
      alt="Wakapi Time Tracking" 
      title="Spent more than that amount of time spent on this project">
 
+* 82.221.136.58
+* 82.221.139.185
 * http://aazeenofislam.com/
 * https://adarshanari.com/
 * https://ahmadullah.info/
@@ -27,11 +29,13 @@
 * https://chintaporadh.com/
 * http://www.darsemansoor.com/
 * http://darulilm.org/
+* https://dawahilallah.com/
 * https://www.dawahiseasy.com/
 * https://dua.gtaf.org/bn
 * https://edarussalam.com/
 * https://faith-and-theology.com/
 * https://fatwaa.org/
+* https://gazwah.net/
 * https://www.hadithbd.com/
 * https://hadithoftheday.com/
 * http://www.hamzatzortzis.com/
@@ -137,3 +141,4 @@
 * https://www.waytojannah.net/
 * https://www.whyislam.org/
 * https://yousufsultan.com/
+
