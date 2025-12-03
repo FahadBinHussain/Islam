@@ -1,7 +1,7 @@
 # Islamic Sites/Blogs/Resources/Books
 
-<img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:Islam" 
-     alt="Wakapi Time Tracking" 
+<img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:Islam"
+     alt="Wakapi Time Tracking"
      title="Spent more than that amount of time spent on this project">
 
 * 82.221.136.58
@@ -141,4 +141,28 @@
 * https://www.waytojannah.net/
 * https://www.whyislam.org/
 * https://yousufsultan.com/
-
+* [সাপ্তাহিক লিখনী](www.weeklylikhoni.com)
+* [মাসিক মদীনা](http://www.mashikmadina.com.bd)
+* [মাসিক মঈনুল ইসলাম](http://www.monthlymueenulislam.com)
+* [মাসিক নেয়ামত](www.monthlyniamat.com)
+* [মাসিক রহমত](www.monthlyrahmat.blogspot.com)
+* [মাসিক আত তাওহিদ](http://www.monthlyattawheed.com)
+* [মাসিক আল কাউসার](http://www.alkawsar.com)
+* [মাসিক আদর্শ নারী](www.monthlyadarshanari.com)
+* [পত্রিকা মাসিক আল কলম (পুষ্প)](http://www.alqualam.com)
+* [মাসিক দাওয়াতুল হক](http://mashikdawatulhaque.weebly.com)
+* [মাসিক ঈমানিয়াত](http://www.banglakitab.com/Emaniyat.htm)
+* [মাসিক আল-আবরার](http://monthlyalabrar.wordpress.com)
+* [মাসিক আল হুদা](www.alhudaonline.com)
+* [আলোর পথে](http://alorpothey.com)
+* [মাসিক আল জান্নাত](http://al-jannatbd.com)
+* [মাসিক সংস্কার](http://songskar.com)
+* [নিউজ24.নেট](http://islamicnews24.net)
+* [মাসিক দ্বীন দুনিয়া](www.mashikdeendunia.com)
+* [মাসিক এশাআতে দ্বীন](http://www.eshaatedin.com)
+* [মাসিক রাহমানী পয়গাম](https://sites.google.com/site/rpaigam/), [2](http://rahmani-paigam.weebly.com)
+* [মাসিক জিজ্ঞাসা](http://www.jiggasha.com/index.php)
+* [ইনসাফ ২৪ ডটকম](www.insaf24.com)
+* [মাসিক নব ধ্বনি](http://noboonline.blogspot.com/)
+* [মাসিক নতুন ডাক](www.natundak.com)
+* [মাসিক মদীনার পয়গাম](www.madinarpaigham.blogspot.com)
