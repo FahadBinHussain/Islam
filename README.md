@@ -33,6 +33,7 @@
 * https://www.dawahiseasy.com/
 * https://dua.gtaf.org/bn
 * https://edarussalam.com/
+* https://farabiblog.com/
 * https://faith-and-theology.com/
 * https://fatwaa.org/
 * https://gazwah.net/
