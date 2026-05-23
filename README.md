@@ -1,4 +1,4 @@
-# Islamic Sites/Blogs/Resources/Books
+# Islamic Resource Directory
 
 <img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:Islam"
      alt="Wakapi Time Tracking"
@@ -170,6 +170,6 @@
 
 ## Contributors
 
-<a href="https://github.com/FahadBinHussain/Islam/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FahadBinHussain/Islam" alt="Contributors" />
+<a href="https://github.com/FahadBinHussain/islamic-resource-directory/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FahadBinHussain/islamic-resource-directory" alt="Contributors" />
 </a>
